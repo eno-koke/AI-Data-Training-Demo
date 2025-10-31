@@ -1,0 +1,6 @@
+[
+  {"image_id": "IMG001", "label": "Blood smear - normal"},
+  {"image_id": "IMG002", "label": "Blood smear - infected"},
+  {"image_id": "IMG003", "label": "Tissue sample - benign"},
+  {"image_id": "IMG004", "label": "Tissue sample - malignant"}
+]
