@@ -23,20 +23,8 @@ I’ve included examples of:
 
 ---
 
-## 🧩 Example Dataset
-*(You can later upload a small CSV file here showing sample labeled data — e.g., sentences marked as “positive,” “negative,” or “neutral.”)*  
-
----
-
-## 🚀 Future Work
-- Add sample scripts for data validation  
-- Show workflow for AI feedback loop  
-- Upload anonymized real-world examples  
-
----
-
 ## 💬 Author
 **Enock | MedTechEnock**  
 📍 Nairobi, Kenya  
-📧 [your.email@example.com]  
+📧 ochiengenock24@gmail.com  
 🌐 [github.com/MedTechEnock](https://github.com/MedTechEnock)
